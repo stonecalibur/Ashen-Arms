@@ -67,3 +67,22 @@ a.outerlink{text-decoration:none}
  font-size: 12px; 
  font-weight:900; 
  word-wrap: break-word;}
+.para20{font-size: 0; text-align:left; padding-bottom:11px; margin-top:0px; padding-top:0px;}
+.Style21{font-family:  'Helvetica' ,sans-serif ;
+ font-size: 12px; 
+ font-weight:normal; 
+ word-wrap: break-word;}
+.Style22{font-family:  'ComicSansMS-Bold', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
+ font-size: 12px; 
+ font-weight:700; 
+ word-wrap: break-word;}
+.Style23{font-family:  'ComicSansMS-Bold', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
+ font-size: 15px; 
+ font-weight:700; 
+ color: #F8B900;
+ word-wrap: break-word;}
+.Style24{font-family:  'ComicSansMS', 'Comic Sans MS' ,'Comic Sans MS' ,cursive ;
+ font-size: 27px; 
+ font-weight:normal; 
+ color: #FE9300;
+ word-wrap: break-word;}
