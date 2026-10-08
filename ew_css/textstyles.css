@@ -96,3 +96,18 @@ a.outerlink{text-decoration:none}
  font-weight:normal; 
  color: #5D5D5D;
  word-wrap: break-word;}
+.Style27{font-family:  'Arial' ,sans-serif ;
+ font-size: 15px; 
+ font-weight:normal; 
+ word-wrap: break-word;}
+.Style28{font-family:  'Arial-Black', 'Arial Black' ,sans-serif ;
+ font-size: 12px; 
+ font-weight:900; 
+ margin:0;
+ color: #F42304;
+ word-wrap: break-word;}
+.Style29{font-family:  'Arial-Black', 'Arial Black' ,sans-serif ;
+ font-size: 16px; 
+ font-weight:900; 
+ color: #FF5A0D;
+ word-wrap: break-word;}
