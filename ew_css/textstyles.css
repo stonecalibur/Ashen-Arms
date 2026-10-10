@@ -111,3 +111,19 @@ a.outerlink{text-decoration:none}
  font-weight:900; 
  color: #FF5A0D;
  word-wrap: break-word;}
+.para30{font-size: 0; text-align:center; padding-bottom:14px; margin-top:0px; padding-top:0px;}
+.Style31{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 18px; 
+ font-weight:700; 
+ word-wrap: break-word;}
+.Style32{font-family:  'Arial-BoldMT', 'Arial' ,sans-serif ;
+ font-size: 15px; 
+ font-weight:700; 
+ color: #5D5D5D;
+ word-wrap: break-word;}
+.Style33{font-family:  'Arial-ItalicMT', 'Arial' ,sans-serif ;
+ font-size: 15px; 
+ font-weight:normal; 
+ font-style: italic;
+ color: #5D5D5D;
+ word-wrap: break-word;}
